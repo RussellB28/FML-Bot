@@ -1,0 +1,12 @@
+---------------------------------------
+               CHANGELOG
+---------------------------------------
+
+** 04/10/2010
+- Docs: Added CHANGELOG to docs
+- Mods: Added Error Module - Handles Errors Respectively
+- Mods: Added IRC Module - Adds IRC Functionality that can be used on ALL modules
+- Mods: Added Functions Module - Adds Required Functions for Timers and more
+- Mods: Added Log Module - Adds Log Functionality
+- Base: src/* files uploaded to repository
+- Docs: Added LICENSE and INSTALL to docs
