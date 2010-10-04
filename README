@@ -1,0 +1,50 @@
+                README
+---------------------------------------
+
+TABLE OF CONTENTS
+-----------------
+  1. Credits
+  2. Description
+  3. Installation
+  4. Getting support
+  5. Reporting bugs
+
+1. CREDITS
+----------
+
+FML-Bot is developed by Russell M Bradford
+The Following people have contributed their code or knowledge to this project
+
+None yet :O!
+
+
+2. DESCRIPTION
+--------------
+
+FML-Bot is a modular IRC Bot coded in PHP that can perform many helpful
+tasks to make everyday irc'ing easier or fun.
+
+ATTENTION: By using this software, you are stating
+that you have read and agreed to the terms in docs/LICENSE.
+
+3. INSTALLATION
+---------------
+
+See docs/INSTALL for information on how to install FML-Bot
+
+4. GETTING SUPPORT
+------------------
+
+Should you need any help with FML-Bot, please drop by
+our IRC chatroom:
+
+Host: irc.connecttek.net
+Port: 6667 | SSL: 6697
+Channel: #fml
+
+
+5. REPORTING BUGS
+-----------------
+
+Should you come across a bug within the original code, please
+report it to us by visiting our IRC ChatRoom stated above
