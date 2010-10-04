@@ -1,0 +1,12 @@
+----------------------------------------
+             INSTALLATION
+----------------------------------------
+
+Before you run FML-Bot, you will need to edit the following files:
+
+* data/config.php
+
+Once you have edited all the required files, you are then ready to run FML-Bot!
+To do this use the recommended command:
+
+'nohup php fml-run.php > bot.log &'
